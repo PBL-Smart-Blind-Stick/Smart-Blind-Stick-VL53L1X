@@ -1,0 +1,1 @@
+Folder ini berisi dokumentasi rangkaian elektronik dan file simulasi proyek Smart Blind Stick with VL53L1X ToF Sensor. Folder ini digunakan untuk menyimpan gambar rangkaian serta file pendukung perancangan dan simulasi proyek.
